@@ -1,6 +1,5 @@
 # KMeans-Clustering-on-Iris-Dataset
 
-# K-Means Clustering with Iris Dataset
 
 This project demonstrates the use of K-Means clustering on the Iris dataset. K-Means is an unsupervised machine learning algorithm that groups data points into clusters based on similarity.
 
